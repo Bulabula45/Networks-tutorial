@@ -1,5 +1,5 @@
 # Networks-tutorial
-bacis kinds of networks line by line or using api in PyTorch
+**bacis kinds of networks line by line or using api in PyTorch**
 
 
 
